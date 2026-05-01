@@ -1,25 +1,53 @@
-# Nexovia
-> **Evolving projects into possibilities.**
+# nex-ovia
 
-Nexovia is an open-source research lab and technical publication. We are building the tools and standards that help people own their digital world, without being locked into big tech platforms.
-
-### 🔭 What we are building
-We are currently in the **design and planning phase**. Our focus is on creating a "gold standard" for how software should be built, delivered, and managed.
-
-* **IFOS (Infrastructure Framework):** Our core blueprint. We are currently writing the requirements to ensure all our projects are portable, secure, and easy to manage.
-* **Sovereign Tools:** Applications and infrastructure that put the user in control of their own data.
-* **Engineering Excellence:** Establishing high-quality rules for how modern software should be delivered.
-
-### 🏛️ Our Philosophy
-Nexovia is a disciplined initiative dedicated to engineering precision and architectural quality.
-1.  **Architecture First:** We believe in planning deeply before writing a single line of code.
-2.  **Digital Sovereignty:** You should own your data and the systems that run it.
-3.  **Community Driven:** While currently led by a single maintainer, we are building this for a future community of skilled engineers.
-
-### 💬 Stay Connected
-Since we are in the research phase, the best way to get involved is to join the conversation:
-* **Real-time Discussion:** [Join our Slack Community](https://nexoviacommunity.slack.com)
-* **Project Website:** [nex-ovia.com](https://www.nex-ovia.com)
+**Building the standards and tools for how software gets delivered in the AI era.**
 
 ---
-*Nexovia is a non-commercial, open-source technical publication. We value technical merit and collaborative research.*
+
+We believe that good solutions should be built once, reused many times, extended without friction, and maintained without becoming a burden - by any team, in any language, on any platform.
+
+That belief is the foundation of everything we build here.
+
+---
+
+## The Nexovia Standard (NXS)
+
+NXS is an open delivery standard for teams that want what they build today to still be working, understandable, and easy to improve years from now.
+
+It gives non-developer leaders the structure to confidently direct and own large technical projects. It gives developers a production-grade foundation and the creative freedom to build within it.
+
+[Read the standard](https://github.com/nex-ovia/NXS) · [Visit nex-ovia.com](https://nex-ovia.com)
+
+---
+
+## What Is Coming
+
+NXS is the foundation. The tools that implement it are being built in the open.
+
+- **NXS CLI** &rarr; a binary that reads a project declaration and scaffolds, validates, visualises, and documents any solution built to the standard
+- **NXS Visualiser** &rarr; a dependency and workflow graph generated directly from your project structure
+- **NXS Docs** &rarr; automatically generated documentation from the way your project is built, not from what you remember to write
+
+Everything built here is language-agnostic, platform-agnostic, and open source.
+
+---
+
+## Support This Work
+
+NXS and all tools built on it are free and open. If this work is useful to you, your team, or your organisation, consider sponsoring to help keep it moving forward.
+
+Every contribution goes directly toward building tooling, publishing the standard, and making delivery sovereignty accessible to every team that builds software.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor_nex--ovia-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/nex-ovia)
+
+---
+
+## Get Involved
+
+NXS is built from real delivery experience. If you work in implementation, customer success, solutions architecture, or software engineering and have something to contribute, open a discussion in the [NXS repo](https://github.com/nex-ovia/NXS).
+
+The standard should reflect how good work actually gets done.
+
+---
+
+*nex-ovia - the path to what comes next.*
